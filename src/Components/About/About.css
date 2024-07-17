@@ -1,0 +1,27 @@
+/* About Us Section CSS Properties */
+
+.about {
+    margin: 100px auto;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+    margin-top: 50%;
+}
+
+.about-left {
+    flex-basis: 30%;
+}
+
+.about-right {
+    flex-basis: 50%;
+    margin-left: 60%;
+    margin-top: -45%;
+    margin-bottom: 20px;
+}
+
+.about-img {
+    width: 60%;
+    height: 60vh;
+    border-radius: 10px;
+    margin-left: -50%;
+}

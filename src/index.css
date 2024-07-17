@@ -1,0 +1,71 @@
+/* Global CSS Properties */
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+/* Global Layout and Font Properties */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Outfit", sans-serif;
+}
+
+/* Home Page Background Color */
+
+body {
+  width: 100%;
+  overflow-x: hidden;
+  background: #eef1f5;
+}
+
+/* Logo Hover Function */
+
+a {
+  text-decoration: none;
+  color: inherit;
+  line-height: 1;
+  cursor: pointer;
+}
+
+/* Logo Padding */
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+/* Global Button CSS */
+
+.btn {
+  background: #eef1f5;
+  color: #061461;
+  padding: 14px 25px;
+  font-size: 16px;
+  border-radius: 30px;
+  cursor: pointer;
+  border: 0;
+  outline: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn img {
+  width: 20px;
+  margin-left: 10px;
+}
+
+/* -----media query ----------*/
+
+@media (max-width: 1200px){
+  .container{
+      padding-left: 5%;
+      padding-right: 5%;
+  }
+  .btn{
+    padding: 14px 22px;
+  }
+}
