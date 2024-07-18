@@ -4,6 +4,7 @@
     display: flex;
     align-content: center;
     justify-content: space-between;
+    margin-top: 90%;
 }
 
 .contact-col{

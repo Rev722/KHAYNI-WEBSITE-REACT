@@ -58,6 +58,10 @@ a {
   margin-left: 10px;
 }
 
+.btn.dark.btn{
+  background: #020736;
+}
+
 /* -----media query ----------*/
 
 @media (max-width: 1200px){

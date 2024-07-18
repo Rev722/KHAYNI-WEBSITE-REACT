@@ -1,0 +1,25 @@
+.csi {
+    margin: 80px auto;
+    width: 90%;
+    text-align: center;   
+    margin-top: -90%; 
+}
+
+.gallery {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+.gallery img {
+    width: 30%;
+    border-radius: 10px
+    }
+
+.gallery-header h2 {
+    margin-top: -40%;
+}
+
+
+    /* Media query for smaller screens */

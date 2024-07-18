@@ -32,7 +32,8 @@ const Navbar = () => {
         <ul className={mobileMenu?'':'hide-mobile-menu'}> 
             <li><Link to='hero' smooth={true} offset={0} duration={500}> Home </Link></li>
             <li><Link to='services' smooth={true} offset={-260} duration={500}> Our Services </Link></li>
-            {/* <li><Link to='hero' smooth={true} offset={0} duration={500}> CSI </Link></li> */}
+            <li><Link to='partner' smooth={true} offset={-260} duration={500}> Our Partners </Link></li>
+            <li><Link to='csi' smooth={true} offset={-260} duration={500}> CSI </Link></li>
             <li><Link to='contact' smooth={true} offset={500} duration={500} className='btn'> Our Contacts </Link></li>
         </ul>
         <img src={menu_icon} alt="" className='menu-icon' onClick={toggleMenu} />

@@ -25,7 +25,7 @@ const OurServices = () => {
       <div className="service">
         <img src={service_2} alt="" />
         <div className="caption">
-          <a href="https://online.fliphtml5.com/sguyq/tkcc/#p=1">
+          <a href="https://rev722.github.io/ITSOLUTIONS-KHAYNI/">
           <img src={program_icon_2} alt="" />
           <p> IT Solutions </p>
           </a>
