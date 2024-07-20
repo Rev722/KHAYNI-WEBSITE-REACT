@@ -15,7 +15,8 @@ const Hero = () => {
             innovative solutions and expert training to enhance productivity, efficiency, and growth.
             Khayni is driven by a firm belief that growth brings about unlimited dreams and high-quality
             performance. We are an organization that produces the highest level of results that unleash
-            full potential and unlock talents. </p>
+            full potential and unlock talents. Our vision is to create an agile organization that creates
+             limitless opportunities and partnerships. </p>
       </div>
     </div>
   )
