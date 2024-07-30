@@ -1,6 +1,7 @@
 import React from 'react'
 import './Footer.css'
 
+
 // Footer Section Elements
 
 const Footer = () => {
@@ -10,6 +11,7 @@ const Footer = () => {
       <ul>
         <li> Terms of Service </li>
         <li> Privacy Policy </li>
+        <li> <a href="https://www.linkedin.com/in/khayni-pty-ltd-91320931b/"> LinkedIn </a> </li>
       </ul>
     </div>
   )

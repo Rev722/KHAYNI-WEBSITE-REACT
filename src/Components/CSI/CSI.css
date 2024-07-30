@@ -29,6 +29,7 @@
 @media (max-width: 800px){
     .gallery{
         flex-wrap: wrap;
+        margin-top: -540%;
     }
     .gallery img{
         width: 48%;

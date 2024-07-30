@@ -75,14 +75,15 @@
 /* -----media query ----------*/
 
 @media (max-width: 800px){
-    .testimonials{
+    .partner{
         padding: 0 40px;
+        margin-top: -250%;
     }
     .next-btn, .back-btn{
         padding: 10px;
         width: 35px;
     }
-    .testimonials ul li{
+    .partner ul li{
         padding: 10px;
     }
     .slide{

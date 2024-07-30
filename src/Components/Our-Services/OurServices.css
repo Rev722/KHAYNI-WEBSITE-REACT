@@ -60,6 +60,7 @@
 @media (max-width: 650px){
     .services{
         flex-direction: column;
+        margin-top: 50%;
     }
     .service{
         flex-basis: 100%;
