@@ -13,6 +13,10 @@ import program_icon_3 from '../../assets/program-icon-3.png'
 const OurServices = () => {
   return (
     <div className='services'>
+      <div className='service-title'>
+      <h1>What We Offer:</h1>
+      <h2>Our Services</h2>
+      </div>
       <div className="service">
         <img src={service_1} alt="" />
         <div className="caption">

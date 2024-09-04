@@ -14,7 +14,7 @@ const CSI = () => {
         <img src={s_img2} alt="" />
       </div>
       <a href="https://www.sossouthafrica.org.za/">
-      <button className='btn'> See More Here <img src={white_arrow} alt="" /></button>
+      {/* <button className='btn'> See More Here <img src={white_arrow} alt="" /></button> */}
       </a>
       <div className="gallery-header">
         <h2> Khayni Cares, We support SOS Children's Villages </h2>

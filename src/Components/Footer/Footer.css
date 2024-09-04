@@ -5,7 +5,7 @@
     justify-content: space-between;
     border-top: 1px solid #797979;
     padding: 15px 0;
-    margin-top: 130%;
+    margin-top: 140%;
 }
 
 .footer ul li {
@@ -20,7 +20,7 @@
     .footer{
         display: block;
         text-align: center;
-        margin-top: 500%;
+        margin-top: 880%;
     }
     .footer ul li{
         margin: 10px;

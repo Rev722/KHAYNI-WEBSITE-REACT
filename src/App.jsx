@@ -16,7 +16,7 @@ const App = () => {
       <Hero />
       <OurServices />
       <div className="container">
-      <Title subTitle='Our Services' title='What We Offer'/>
+      {/* <Title subTitle='Our Services' title='What We Offer'/> */}
       <Contact />
       <CSI/>
       <Partners/>

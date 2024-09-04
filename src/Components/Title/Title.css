@@ -17,3 +17,13 @@
     margin-top: 5px;
     text-transform: none;
 } 
+
+
+/* -----media query ----------*/
+
+@media (max-width: 800px){
+    .partner{
+        padding: 0 40px;
+        margin-top: -400%;
+    }
+}

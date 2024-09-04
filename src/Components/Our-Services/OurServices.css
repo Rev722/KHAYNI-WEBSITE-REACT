@@ -6,7 +6,22 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-top: 15%;
+    margin-top: 25%;
+    margin-left: -2%;
+}
+
+.service-title h1 {
+    color: #000F38;
+    margin-top: -110%;
+    margin-left: 260%;
+    white-space: nowrap;
+}
+
+.service-title h2 {
+    color:#000F38;
+    margin-left: 275%;
+    white-space: nowrap;
+    margin-top: -35%;
 }
 
 /* Service Images */
@@ -15,6 +30,7 @@
     width: 100%;
     border-radius: 10px;
     display: block;
+    /* margin-top: 20%; */
 }
 
 /* Service Text */
@@ -22,6 +38,7 @@
 .service {
     flex-basis: 31%;
     position: relative;
+    margin: 0 20px;
 }
 
 /* Caption + Icon Elements/Animation */
